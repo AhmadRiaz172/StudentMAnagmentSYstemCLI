@@ -8,5 +8,5 @@ Basic functionality </br>
 5. Login
 6. etc</br>
 How to run.</br>
--. change email and password of senders email in the code. 
+-. change email and password of senders email in the code. </br>
 -. run main function.
