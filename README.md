@@ -6,7 +6,7 @@ Basic functionality </br>
 3. Waiting list of each course.
 4. Email notofications.
 5. Login
-6. etc
+6. etc</br>
 How to run.</br>
-1. change email and password of senders email in the code. 
-2. run main function.
+-. change email and password of senders email in the code. 
+-. run main function.
