@@ -9,4 +9,4 @@ Basic functionality </br>
 6. etc
 How to run.</br>
 1. change email and password of senders email in the code. 
-2. run the main function.
+2. run main function.
