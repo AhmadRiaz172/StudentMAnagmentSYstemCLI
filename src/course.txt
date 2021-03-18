@@ -1,0 +1,9 @@
+Programming fundamentals,PF-205,Computing,17668,25
+Programming fundamentals,PF-205,Computing,17669,27
+Discrete Structures,HU-117,Computing,17675,31
+Assembly Language,PF-222,Computing,17671,29
+Discrete Structures,HU-117,Computing,17673,21
+Object Oriented Programming,PF-209,Computing,17980,23
+Humanities,HU-102,Humanity,27980,1
+Socket Programming,PF-123,Computing,78902,12
+Programming basics,PF-321,Computing,78936,10

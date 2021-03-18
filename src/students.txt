@@ -1,0 +1,12 @@
+Sheikh Ibn Ali Riaz,12878,MALE,UAE,i181658@nu.edu.pk
+Sheikh Khattab Riaz,98712,MALE,UAE,i181658@nu.edu.pk
+Datip Gupta,97170,MALE,UAE,i181658@nu.edu.pk
+Ali Imran,78292,MALE,UAE,i181658@nu.edu.pk
+Sana Ilyas,45671,FEMALE,UAE,i181658@nu.edu.pk
+AAmir Bhagat,89021,MALE,UAE,i181658@nu.edu.pk
+James Anderson,23231,MALE,American,i181658@nu.edu.pk
+James James,33231,MALE,American,i181658@nu.edu.pk
+Gregor James,39231,MALE,American,i181658@nu.edu.pk
+James Willamson,33211,MALE,American,i181658@nu.edu.pk
+Willam House,98771,MALE,Australian,i181658@nu.edu.pk
+Test one,67821,MALE,test,test@gmail.com
